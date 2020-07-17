@@ -95,7 +95,7 @@ Pod::Spec.new do |spec|
   spec.vendored_frameworks = 'SDK/Dosmono.framework'
   spec.frameworks = "Foundation", "UIKit"
   #依赖的第三方，有几个写几个
-  s.dependency "AFNetworking", "YYModel", "JRDB", "RACSRWebSocket", "FreeStreamer"
+  spec.dependency "AFNetworking", "YYModel", "JRDB", "RACSRWebSocket", "FreeStreamer"
     
 
   # spec.public_header_files = "Classes/**/*.h"
