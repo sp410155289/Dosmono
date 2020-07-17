@@ -25,7 +25,8 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-                   DESC
+  大圣魔脑 Dosmono SDK
+     DESC
 
   spec.homepage     = "https://github.com/sp410155289/Dosmono"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
@@ -38,8 +39,7 @@ Pod::Spec.new do |spec|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  spec.license      = "MIT (example)"
-  # spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  spec.license      = { :type => "MIT", :file => "LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -95,7 +95,7 @@ Pod::Spec.new do |spec|
   spec.vendored_frameworks = 'SDK/Dosmono.framework'
   spec.frameworks = "Foundation", "UIKit"
   #依赖的第三方，有几个写几个
-  spec.dependency "AFNetworking", "YYModel", "JRDB", "RACSRWebSocket", "FreeStreamer"
+  spec.dependency "AFNetworking"
     
 
   # spec.public_header_files = "Classes/**/*.h"
