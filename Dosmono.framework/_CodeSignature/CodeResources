@@ -10,43 +10,11 @@
 		</data>
 		<key>Headers/Dosmono.h</key>
 		<data>
-		f4I0r7X1u+sem9C0n9GLOsZny8M=
+		ywA24ypwybzL8Rp6hkP/5AfmVoY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Sj+nxRDvpYc3La68btV8NHA0zm4=
-		</data>
-		<key>gRPCCertificates.bundle/Info.plist</key>
-		<data>
-		Kd2+RxzRiS05kLmCjHLLLvDPFpE=
-		</data>
-		<key>gRPCCertificates.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		0n9sfx3dwpRexsmHcf2LbSzCdUM=
-		</data>
-		<key>gRPCCertificates.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		OnX22wWFKRSOFN1+obRynMCeyXM=
-		</data>
-		<key>gRPCCertificates.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		CvpVLtZgomUJpbi1eqSTXl170iI=
-		</data>
-		<key>gRPCCertificates.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		Y3ocQH6kzKuSp0y8oAdy+f7yHHw=
-		</data>
-		<key>gRPCCertificates.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-		</data>
-		<key>gRPCCertificates.bundle/roots.pem</key>
-		<data>
-		CXuKuhC/pqSvFeMiV3d+kKGCvAo=
-		</data>
-		<key>mono_language_iso_config.json</key>
-		<data>
-		US1KMk6QQxqFklHzXZcwwG20cUs=
+		4BHdW47SANyrnrGc2708hz9jSOk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -66,99 +34,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			f4I0r7X1u+sem9C0n9GLOsZny8M=
+			ywA24ypwybzL8Rp6hkP/5AfmVoY=
 			</data>
 			<key>hash2</key>
 			<data>
-			1y5bN7W3CX/qIKRO8NcCAtX3uI5+njeCeslcpsSfiqk=
-			</data>
-		</dict>
-		<key>gRPCCertificates.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Kd2+RxzRiS05kLmCjHLLLvDPFpE=
-			</data>
-			<key>hash2</key>
-			<data>
-			zVTL5C7rb0qCqU8o1zhKtdbl1n1TaHbnqwUl0lO31n0=
-			</data>
-		</dict>
-		<key>gRPCCertificates.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			0n9sfx3dwpRexsmHcf2LbSzCdUM=
-			</data>
-			<key>hash2</key>
-			<data>
-			3iQdXGXqhga3Ux1P8AwJHGCARvfmqyH4hqEm+FdkTKM=
-			</data>
-		</dict>
-		<key>gRPCCertificates.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OnX22wWFKRSOFN1+obRynMCeyXM=
-			</data>
-			<key>hash2</key>
-			<data>
-			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
-			</data>
-		</dict>
-		<key>gRPCCertificates.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CvpVLtZgomUJpbi1eqSTXl170iI=
-			</data>
-			<key>hash2</key>
-			<data>
-			/Fnm4zAd1CpJkCON0O1KgGsYjqod8tsCkmGE28LToeU=
-			</data>
-		</dict>
-		<key>gRPCCertificates.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Y3ocQH6kzKuSp0y8oAdy+f7yHHw=
-			</data>
-			<key>hash2</key>
-			<data>
-			CiL/RJiV86NjUsy992+Axd8rQ7+tcxhtI2dCMMFDLJU=
-			</data>
-		</dict>
-		<key>gRPCCertificates.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
-			<key>hash2</key>
-			<data>
-			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
-			</data>
-		</dict>
-		<key>gRPCCertificates.bundle/roots.pem</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CXuKuhC/pqSvFeMiV3d+kKGCvAo=
-			</data>
-			<key>hash2</key>
-			<data>
-			bzdS84Bjaci53Qx5GyBJefbNT9aLHWOOxhRpwqYI5SE=
-			</data>
-		</dict>
-		<key>mono_language_iso_config.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			US1KMk6QQxqFklHzXZcwwG20cUs=
-			</data>
-			<key>hash2</key>
-			<data>
-			36VhOUpXpb4f/zSVt5uYaaUGjydloUReBPoAa2nKo6o=
+			gyF3nQKBigdivc0w3VM9kTt4IerGlQxn3rZMgd5UqyM=
 			</data>
 		</dict>
 	</dict>

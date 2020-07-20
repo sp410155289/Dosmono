@@ -15,4 +15,4 @@ FOUNDATION_EXPORT const unsigned char TranslateVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Translate/PublicHeader.h>
 
-#import <ASRRequest.h>
+#import <Translate/ASRRequest.h>
