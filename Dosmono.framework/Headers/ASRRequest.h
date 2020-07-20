@@ -24,4 +24,6 @@
 
 - (void)initWithAccessKey:(NSString *)accessKey secretKey:(NSString *)secretKey callback:(void(^)(BOOL isSuccess))result;
 
++ (void)test1;
+
 @end
