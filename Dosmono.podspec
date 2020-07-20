@@ -11,10 +11,10 @@ Pod::Spec.new do |spec|
 
   spec.name         = "Dosmono"
   spec.version      = "0.0.1"
-  spec.summary      = "test"
+  spec.summary      = "Dosmono"
 
   spec.description  = <<-DESC
-  测试项目123
+  大圣魔脑SDK
                    DESC
 
   spec.homepage     = "https://github.com/sp410155289/Dosmono"
@@ -49,7 +49,7 @@ Pod::Spec.new do |spec|
   spec.frameworks = "UIKit", "Foundation", "CoreGraphics", "QuartzCore", "SystemConfiguration", "Contacts", "AddressBook", "AudioToolbox", "AVFoundation", "CoreTelephony", "CoreLocation"
   spec.libraries = "c++", "z"
   
-  # spec.public_header_files = "Classes/**/*.h"
+  # spec.public_header_files = 'Headers/*.h'
 
   # spec.resource  = "icon.png"
   # spec.resources = "Resources/*.png"
@@ -58,7 +58,6 @@ Pod::Spec.new do |spec|
 
 
   # spec.framework  = "SomeFramework"
-  spec.frameworks = "UIKit", "Foundation"
 
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"

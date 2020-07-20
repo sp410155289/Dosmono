@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/ASRRequest.h</key>
-		<data>
-		/9nxw91Y2cc2KyDkWwgvHgrzL9Q=
-		</data>
 		<key>Headers/Dosmono.h</key>
 		<data>
 		ywA24ypwybzL8Rp6hkP/5AfmVoY=
@@ -16,20 +12,17 @@
 		<data>
 		4BHdW47SANyrnrGc2708hz9jSOk=
 		</data>
+		<key>linshiyinpin.mp3</key>
+		<data>
+		yVXrloFWvIlNbJrnp4Qv7k4dsXw=
+		</data>
+		<key>mono_language_iso_config.json</key>
+		<data>
+		US1KMk6QQxqFklHzXZcwwG20cUs=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/ASRRequest.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/9nxw91Y2cc2KyDkWwgvHgrzL9Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			mXpFnnrnzZ9Dg/A0OlH9x/wcupMSuhgPDE77JFe0GQ4=
-			</data>
-		</dict>
 		<key>Headers/Dosmono.h</key>
 		<dict>
 			<key>hash</key>
@@ -39,6 +32,28 @@
 			<key>hash2</key>
 			<data>
 			gyF3nQKBigdivc0w3VM9kTt4IerGlQxn3rZMgd5UqyM=
+			</data>
+		</dict>
+		<key>linshiyinpin.mp3</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yVXrloFWvIlNbJrnp4Qv7k4dsXw=
+			</data>
+			<key>hash2</key>
+			<data>
+			2l5bmYVhWxPgSihIOQ+Tb8uP/O+8BQKMSXVPy5NW2Os=
+			</data>
+		</dict>
+		<key>mono_language_iso_config.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			US1KMk6QQxqFklHzXZcwwG20cUs=
+			</data>
+			<key>hash2</key>
+			<data>
+			36VhOUpXpb4f/zSVt5uYaaUGjydloUReBPoAa2nKo6o=
 			</data>
 		</dict>
 	</dict>
