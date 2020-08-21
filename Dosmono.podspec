@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "Dosmono"
-  spec.version      = "0.0.1"
+  spec.version      = "1.0.0"
   spec.summary      = "Dosmono"
 
   spec.description  = <<-DESC
@@ -32,7 +32,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios
   # spec.platform     = :ios, "5.0"
 
-  spec.ios.deployment_target = "11.0"
+  spec.ios.deployment_target = "10.0"
 
 
 
@@ -41,10 +41,11 @@ Pod::Spec.new do |spec|
   spec.source_files  = 'Dosmono.framework/Headers/*.{h}'
   spec.exclude_files = "Classes/Exclude"
   spec.ios.vendored_frameworks = 'Dosmono.framework'
-  spec.dependency 'AFNetworking'
   spec.dependency 'YYModel'
-  spec.dependency 'RACSRWebSocket', '~> 1.1.3'
+  spec.dependency 'JRDB'
+  spec.dependency 'SocketRocket'
   spec.dependency 'FreeStreamer'
+  spec.dependency 'BabyBluetooth'
   spec.requires_arc = true
   spec.frameworks = "UIKit", "Foundation", "CoreGraphics", "QuartzCore", "SystemConfiguration", "Contacts", "AddressBook", "AudioToolbox", "AVFoundation", "CoreTelephony", "CoreLocation"
   spec.libraries = "c++", "z"

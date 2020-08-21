@@ -8,7 +8,24 @@
 
 #import <Foundation/Foundation.h>
 
+@class DOSError, DOSResult;
+
 NS_ASSUME_NONNULL_BEGIN
+
+/*!
+ * 在识别到最终结果后，回调该方法
+*/
+typedef void (^DOSCallbackOnResult)(DOSResult *result);
+
+/*!
+ * 在识别失败时，回调该方法
+*/
+typedef void (^DOSCallbackOnError)(DOSError *error);
+
+/*!
+ * 在音量变化时，回调该方法
+*/
+typedef void (^DOSCallbackOnVolume)(NSInteger volume);
 
 @interface DOSCallback : NSObject
 
