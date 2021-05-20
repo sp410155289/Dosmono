@@ -16,16 +16,11 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property (nonatomic, strong) NSString *secretKey;
 
-<<<<<<< HEAD
 
 - (instancetype)initWithAccessKey:(NSString *)accessKey secretKey:(NSString *)secretKey;
 
  
 
-=======
-- (instancetype)initWithAccessKey:(NSString *)accessKey secretKey:(NSString *)secretKey;
-
->>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
 @end
 
 

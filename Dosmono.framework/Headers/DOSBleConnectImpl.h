@@ -21,15 +21,12 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy) OnConnectStatus onConnectStatus;
 
 /*!
-<<<<<<< HEAD
  * 监听主设备状态回调
 */
 @property (nonatomic, copy) OnCentralStatus onCentralStatus;
 
 
 /*!
-=======
->>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
  * 蓝牙连接失败回调
 */
 @property (nonatomic, copy) OnConnectFail onConnectFail;
@@ -55,14 +52,11 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy) OnFileList onFileList;
 
 /*!
-<<<<<<< HEAD
  * 首次鉴权后配置文件下载进度，配置文件下载完成后可使用语音识别。
 */
 @property (nonatomic, copy) OnDownloadConfigFileFinished onDownloadConfigFileFinished;
 
 /*!
-=======
->>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
  * 蓝牙连接对象单例
 */
 + (instancetype)sharedInstance;
@@ -78,7 +72,6 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)disconnectDevice:(CBPeripheral *)peripheral;
 
 /*!
-<<<<<<< HEAD
  * 添加断开自动重连的外设
  */
 - (void)AutoReconnect:(CBPeripheral *)peripheral;
@@ -95,13 +88,10 @@ NS_ASSUME_NONNULL_BEGIN
 - (NSArray<CBPeripheral *> *)findConnectedPeripherals;
 
 /*!
-=======
->>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
  * 蓝牙交互
 */
 - (void)sendCmdWithValue:(NSString *)value flags:(DOSBleFlag)flags;
 
-<<<<<<< HEAD
 /*!
  * 切换当前操作的外设，适用于同时连接多台设备的场景，不可同时进行录音操作
 */
@@ -111,8 +101,6 @@ NS_ASSUME_NONNULL_BEGIN
  * 设置蓝牙连接的超时时长，默认为5s
 */
 - (void)setConnectionTimeout:(NSInteger)duration;
-=======
->>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
 
 
 @end

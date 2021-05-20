@@ -32,9 +32,5 @@ FOUNDATION_EXPORT const unsigned char TranslateVersionString[];
 #import "DOSBleSearchImpl.h"
 #import "DOSBleConnectImpl.h"
 #import "DOSBleRecordImpl.h"
-<<<<<<< HEAD
 #import "DOSAudioEncoder.h"
 #import "DOSBackgroundTask.h"
-=======
-
->>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604

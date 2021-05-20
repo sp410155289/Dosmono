@@ -42,24 +42,14 @@ typedef void (^RecordOnAudioData)(NSData *data);
 
 
 /*!
-<<<<<<< HEAD
  * 解码进度回调 0-1.0
 */
 typedef void (^RecordOnDecodeProgress)(double size);
-=======
- * 解码进度回调 0-100
-*/
-typedef void (^RecordOnDecodeProgress)(NSInteger size);
->>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
 
 /*!
  * 解码-转码成指定格式后的本地路径
 */
-<<<<<<< HEAD
 typedef void (^RecordOnDecodeFilePath)(NSString *filePath, DOSAudioFormat format);
-=======
-typedef void (^RecordOnDecodeFilePath)(NSString *filePath);
->>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
 
 /*!
  * 蓝牙上传文件进度
@@ -67,14 +57,11 @@ typedef void (^RecordOnDecodeFilePath)(NSString *filePath);
 typedef void (^RecordOnUploadProgress)(double progress);
 
 /*!
-<<<<<<< HEAD
  * 上传数据回调
 */
 typedef void (^RecordOnUploadData)(NSData *data);
 
 /*!
-=======
->>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
  * 额外信息
 */
 typedef void (^RecordOnExtraBean)(DOSBleExtraBean *extraBean);
