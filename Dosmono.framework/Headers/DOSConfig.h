@@ -12,6 +12,17 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface DOSConfig : NSObject
 
+@property (nonatomic, strong) NSString *accessKey;
+
+@property (nonatomic, strong) NSString *secretKey;
+
+
+- (instancetype)initWithAccessKey:(NSString *)accessKey secretKey:(NSString *)secretKey;
+
+ 
+
 @end
+
+
 
 NS_ASSUME_NONNULL_END
