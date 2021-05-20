@@ -22,11 +22,14 @@ typedef void (^OnSearchStart)(void);
 typedef void (^OnFoundDevices)(NSArray<CBPeripheral *> *devices);
 
 /*!
+<<<<<<< HEAD
  * 搜索到的设备
 */
 typedef void (^OnFoundDevice)(CBPeripheral *peripheral, NSDictionary *advertisementData, NSNumber *RSSI);
 
 /*!
+=======
+>>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
  * 搜索停止回调
 */
 typedef void (^OnSearchStop)(void);

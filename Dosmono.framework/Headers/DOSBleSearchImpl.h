@@ -24,6 +24,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy) OnFoundDevices onFoundDevices;
 
 /*!
+<<<<<<< HEAD
  * 搜索到的设备
  * CBPeripheral *peripheral,
  * NSDictionary *advertisementData,
@@ -32,6 +33,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy) OnFoundDevice onFoundDevice;
 
 /*!
+=======
+>>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
  * 搜索停止回调
 */
 @property (nonatomic, copy) OnSearchStop onSearchStop;
@@ -58,9 +61,12 @@ NS_ASSUME_NONNULL_BEGIN
 
 /*!
  * 开始蓝牙搜索
+<<<<<<< HEAD
  * 此功能在DOSBleConnectImpl实例化1s后可正常使用
  * 启动后1s内会处理系统已连接但app未持有的设备，启动1s内进行搜索会被打断
  * 
+=======
+>>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
 */
 - (void)startSearch;
 
@@ -69,12 +75,15 @@ NS_ASSUME_NONNULL_BEGIN
 */
 - (void)stopSearch;
 
+<<<<<<< HEAD
 /*!
  *
  * 根据前缀过滤外设，只返回包含此前缀的外设
 */
 - (void)setFilterOnDiscoverPeripherals:(NSString *)prefix;
 
+=======
+>>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
 
 @end
 

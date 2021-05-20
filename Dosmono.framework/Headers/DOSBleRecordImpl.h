@@ -17,7 +17,10 @@ NS_ASSUME_NONNULL_BEGIN
 */
 @property (nonatomic, copy) RecordOnResult onResult;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
 /*!
  * 翻译结果回调
 */
@@ -58,11 +61,14 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy) RecordOnUploadProgress onUploadProgress;
 
 /*!
+<<<<<<< HEAD
  * 上传完成回调
 */
 @property (nonatomic, copy) RecordOnUploadData onUploadData;
 
 /*!
+=======
+>>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
  * 额外信息
 */
 @property (nonatomic, copy) RecordOnExtraBean onExtraBean;
@@ -106,6 +112,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)startDecode:(NSString *)path;
 
 /*!
+<<<<<<< HEAD
  * 开始解码，
  * path 需要解码的data
 */
@@ -118,11 +125,14 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)setSleepForTimeInterval:(NSTimeInterval)t;
 
 /*!
+=======
+>>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
  * 取消解码
 */
 - (void)cancelDecode;
 
 /*!
+<<<<<<< HEAD
   * 启用语音识别，默认开启
  */
 - (void)enableRecognize:(BOOL)enable;
@@ -135,6 +145,13 @@ NS_ASSUME_NONNULL_BEGIN
  * isKeep 为NO时，startPoint参数无效,
 */
 - (void)startTransferWithFileName:(NSString *)fileName startPoint:(NSUInteger)startPoint keepFile:(BOOL)isKeep;
+=======
+ * 上传蓝牙录音笔文件
+ * filename 要上传的文件名
+ * startPoint 开始上传的位置(支持断点续传)
+*/
+- (void)startTransferWithFileName:(NSString *)fileName startPoint:(NSUInteger)startPoint;
+>>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
 
 /*!
  * 根据蓝牙录音笔文件名获取本地文件路径

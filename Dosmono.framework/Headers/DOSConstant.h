@@ -9,6 +9,7 @@
 #ifndef DOSConstant_h
 #define DOSConstant_h
 
+<<<<<<< HEAD
 typedef NS_ENUM(NSInteger, DOSRecognizeAudioSource){
 
     DOSRecognizeAudioSource_mic = 0,//麦克风直接采集
@@ -16,6 +17,8 @@ typedef NS_ENUM(NSInteger, DOSRecognizeAudioSource){
 
 };
 
+=======
+>>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
 typedef NS_ENUM(NSInteger, DOSEncodeWay){
 
     DOSEncodeWay_WAV = 0,//wav
@@ -56,6 +59,7 @@ typedef NS_ENUM(NSInteger, DOSBleFlag){
     DOSBleFlag_START_RECORD,//录音开始，仅提供录音开始回调，主动开始录音请使用 - (void)startRecord:(DOSBleRecordBuilder *)builder;
     DOSBleFlag_FINISH_RECORD,//结束录音
     DOSBleFlag_STOP_RECORD,//暂停录音
+<<<<<<< HEAD
     DOSBleFlag_STOP_TRANSFER, //停止上传数据
     DOSBleFlag_STOP_FINISHED, //上传数据完成
     DOSBleFlag_BTN_STATUS, //获取录音笔按钮状态
@@ -71,6 +75,9 @@ typedef NS_ENUM(NSUInteger, DOSAudioFormat){
     DOSAudioFormat_WAV,
     DOSAudioFormat_PCM,
     DOSAudioFormat_UNKNOWN,
+=======
+    DOSBleFlag_STOP_TRANSFER //停止上传数据
+>>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
 };
 
 

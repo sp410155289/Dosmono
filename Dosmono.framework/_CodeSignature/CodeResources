@@ -4,6 +4,7 @@
 <dict>
 	<key>files</key>
 	<dict>
+<<<<<<< HEAD
 		<key>Headers/DOSAudioEncoder.h</key>
 		<data>
 		Osks8MxrDO3CgcBUZKxOYSY0yXc=
@@ -19,6 +20,15 @@
 		<key>Headers/DOSBleConnectImpl.h</key>
 		<data>
 		oNqGlGThewO2PgCEBrGT4FwNNiQ=
+=======
+		<key>Headers/DOSBleClientImpl.h</key>
+		<data>
+		QhjbgyUeRlQ0GxPLjJpnXKY/VE4=
+		</data>
+		<key>Headers/DOSBleConnectImpl.h</key>
+		<data>
+		ZpW+KjnudmgtzCMibpFkIsI+108=
+>>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
 		</data>
 		<key>Headers/DOSBleExtraBean.h</key>
 		<data>
@@ -26,6 +36,7 @@
 		</data>
 		<key>Headers/DOSBleRecordBuilder.h</key>
 		<data>
+<<<<<<< HEAD
 		FDFvjtQ3++IeCHuLXddRFJOnzkY=
 		</data>
 		<key>Headers/DOSBleRecordImpl.h</key>
@@ -35,6 +46,17 @@
 		<key>Headers/DOSBleSearchImpl.h</key>
 		<data>
 		VV7zlECX0AAK3WC6MhIM/SlpLDs=
+=======
+		40xncmtTPr3vqFUpQr4HHGjQUhM=
+		</data>
+		<key>Headers/DOSBleRecordImpl.h</key>
+		<data>
+		EIhfkz7nDExoKxKwpseJomexKqU=
+		</data>
+		<key>Headers/DOSBleSearchImpl.h</key>
+		<data>
+		YSRihcMq9xtSYrvX1k/WwnrkzC8=
+>>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
 		</data>
 		<key>Headers/DOSCallback.h</key>
 		<data>
@@ -42,17 +64,26 @@
 		</data>
 		<key>Headers/DOSConfig.h</key>
 		<data>
+<<<<<<< HEAD
 		S5I0Nuq00YfPbfj7d1U/Jcuic98=
 		</data>
 		<key>Headers/DOSConstant.h</key>
 		<data>
 		ZELEy5vKsF4m/79tBJhMVrG+zaM=
+=======
+		hsnQhcVAVhviRDhlik6EcbgH5eo=
+		</data>
+		<key>Headers/DOSConstant.h</key>
+		<data>
+		8zkIZZgQrjIpV4N43yzCxNRoLMo=
+>>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
 		</data>
 		<key>Headers/DOSDosmono.h</key>
 		<data>
 		Q+pOEU0SccgXvv831Aa+/W2fCKU=
 		</data>
 		<key>Headers/DOSError.h</key>
+<<<<<<< HEAD
 		<data>
 		C/rHnM0wybfcDaYBK5sWHl5UzzI=
 		</data>
@@ -71,6 +102,26 @@
 		<key>Headers/DOSRequest.h</key>
 		<data>
 		FkCGGW3r0n9eBvLVSQmOO3uokIg=
+=======
+		<data>
+		C/rHnM0wybfcDaYBK5sWHl5UzzI=
+		</data>
+		<key>Headers/DOSIBleConnectCallback.h</key>
+		<data>
+		iL4PZeQPHXQAnCmX2bpgL5tQU5Q=
+		</data>
+		<key>Headers/DOSIBleRecordCallback.h</key>
+		<data>
+		xowp5sV38RWIqQwLdd3YyvGYiJQ=
+		</data>
+		<key>Headers/DOSIBleSearchCallback.h</key>
+		<data>
+		bWQWNQLl3PZa2FjE/aY5Z9tq92Q=
+		</data>
+		<key>Headers/DOSRequest.h</key>
+		<data>
+		RXqZKQPebrxpTex19v4gRi9b3lA=
+>>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
 		</data>
 		<key>Headers/DOSResult.h</key>
 		<data>
@@ -80,6 +131,7 @@
 		<data>
 		2rs3xsZgEBq8iUgQ/cZPcJ8nAxM=
 		</data>
+<<<<<<< HEAD
 		<key>Headers/Dosmono.h</key>
 		<data>
 		TTuAN8b4MuX5bk2bcD/evz3bIH8=
@@ -91,10 +143,24 @@
 		<key>slience.mp3</key>
 		<data>
 		J3Pb4NhTpkAuZvRHGtePenylVL4=
+=======
+		<key>Headers/DSAutoPurgingImageCache.h</key>
+		<data>
+		ku9+VVspzwY8FNpDHbI0r55X9WE=
+		</data>
+		<key>Headers/Dosmono.h</key>
+		<data>
+		FCUVHDrDwSzMV7RYXhVVCqSoSCA=
+		</data>
+		<key>Info.plist</key>
+		<data>
+		iUqF4N19Jy9eNGyXC1F/QCnH/jo=
+>>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+<<<<<<< HEAD
 		<key>Headers/DOSAudioEncoder.h</key>
 		<dict>
 			<key>hash</key>
@@ -324,6 +390,215 @@
 			<key>hash2</key>
 			<data>
 			v7ztv5l0gXN7M8JOEJ3nCcM3B2pUWAPrOX4LQX4hyNY=
+=======
+		<key>Headers/DOSBleClientImpl.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QhjbgyUeRlQ0GxPLjJpnXKY/VE4=
+			</data>
+			<key>hash2</key>
+			<data>
+			vHKdXxEsxIdxdWgyIBgWg+82ktt8sJlqJfAlKY396Ik=
+			</data>
+		</dict>
+		<key>Headers/DOSBleConnectImpl.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZpW+KjnudmgtzCMibpFkIsI+108=
+			</data>
+			<key>hash2</key>
+			<data>
+			GdK8Bwdoyap9o4Xa6EjWYpAuUgxZp2NfTTusGR7kGls=
+			</data>
+		</dict>
+		<key>Headers/DOSBleExtraBean.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yKXppx702gSbvEugyKZkG5zOkp8=
+			</data>
+			<key>hash2</key>
+			<data>
+			+c+wAB6UCjhyBoYMS7wJkHwwPD2fOjH560rH30e7iA8=
+			</data>
+		</dict>
+		<key>Headers/DOSBleRecordBuilder.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			40xncmtTPr3vqFUpQr4HHGjQUhM=
+			</data>
+			<key>hash2</key>
+			<data>
+			CboUxqgcYbanbvOoXjpcFt4Wvl9NP6jyWudeW3Xn6Ns=
+			</data>
+		</dict>
+		<key>Headers/DOSBleRecordImpl.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EIhfkz7nDExoKxKwpseJomexKqU=
+			</data>
+			<key>hash2</key>
+			<data>
+			v+xyZLECV/Vujg2njs3GUkJmf68kYR8iwAHxX1Sob/s=
+			</data>
+		</dict>
+		<key>Headers/DOSBleSearchImpl.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YSRihcMq9xtSYrvX1k/WwnrkzC8=
+			</data>
+			<key>hash2</key>
+			<data>
+			kSvSM30GgL1vdoFv7ZqJKH+1V037u5ypT2+qplTm0QI=
+			</data>
+		</dict>
+		<key>Headers/DOSCallback.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/IOfD5738U29VSP3pk32U9nwl4U=
+			</data>
+			<key>hash2</key>
+			<data>
+			LNKfMeeoqx67BG7Kb6MPRe5/gJf4AyFWamhVIIj02lo=
+			</data>
+		</dict>
+		<key>Headers/DOSConfig.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hsnQhcVAVhviRDhlik6EcbgH5eo=
+			</data>
+			<key>hash2</key>
+			<data>
+			kR2Ab0uauFqxZ6pBtUJ4I8v39BluODTxdCGFM79QCbs=
+			</data>
+		</dict>
+		<key>Headers/DOSConstant.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8zkIZZgQrjIpV4N43yzCxNRoLMo=
+			</data>
+			<key>hash2</key>
+			<data>
+			VifTVkBTqmdfiqwjx/YoEkbTPZMbePnqyMKUtkCb5zo=
+			</data>
+		</dict>
+		<key>Headers/DOSDosmono.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Q+pOEU0SccgXvv831Aa+/W2fCKU=
+			</data>
+			<key>hash2</key>
+			<data>
+			TT+A5YMlTWORqzA8fq/aXY21/qClXpT1iF6izWbyka4=
+			</data>
+		</dict>
+		<key>Headers/DOSError.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			C/rHnM0wybfcDaYBK5sWHl5UzzI=
+			</data>
+			<key>hash2</key>
+			<data>
+			5SCcws96uQk7NVIq6iwEjaQFkZ+DmT7BAuzoeoURSmM=
+			</data>
+		</dict>
+		<key>Headers/DOSIBleConnectCallback.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iL4PZeQPHXQAnCmX2bpgL5tQU5Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			ECodx5JwuWUqlROwPG8boZYPC3/YlDXaGkzsmqN8uVA=
+			</data>
+		</dict>
+		<key>Headers/DOSIBleRecordCallback.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xowp5sV38RWIqQwLdd3YyvGYiJQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			OUpSOrgLor+1BXGi+CVTexVKA2UyArzYr5sHGS2ZWlM=
+			</data>
+		</dict>
+		<key>Headers/DOSIBleSearchCallback.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bWQWNQLl3PZa2FjE/aY5Z9tq92Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			JT0BNPtC6dOC45s60mHrPoXS7J7xx2eBgvqHZJvY/r4=
+			</data>
+		</dict>
+		<key>Headers/DOSRequest.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RXqZKQPebrxpTex19v4gRi9b3lA=
+			</data>
+			<key>hash2</key>
+			<data>
+			4oEYlUkwLfHbUt+Mljx6lenclnqTCxcF0AgJ58HPuK8=
+			</data>
+		</dict>
+		<key>Headers/DOSResult.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ScK4r4nq7VcZOBjZfmA2CEwq9JQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			ti+c66oVrZqJddPXVguHEGQT4zfnhDxyz7stF9OWynM=
+			</data>
+		</dict>
+		<key>Headers/DOSSpeechRecognize.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2rs3xsZgEBq8iUgQ/cZPcJ8nAxM=
+			</data>
+			<key>hash2</key>
+			<data>
+			gTs/fAW6OTMzk1WadUQJGRHPuUDcA5HrNlL+/lz39W0=
+			</data>
+		</dict>
+		<key>Headers/DSAutoPurgingImageCache.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ku9+VVspzwY8FNpDHbI0r55X9WE=
+			</data>
+			<key>hash2</key>
+			<data>
+			/Sn0IQGLntYZWMJCQ3fNbGSee9NWB7IRVpkE8ta+tJk=
+			</data>
+		</dict>
+		<key>Headers/Dosmono.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FCUVHDrDwSzMV7RYXhVVCqSoSCA=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZezOXLdPU5rNrnqNJQKcaxmbA3Q9jYnzS2jGh11YqPU=
+>>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
 			</data>
 		</dict>
 	</dict>

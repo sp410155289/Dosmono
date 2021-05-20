@@ -24,9 +24,15 @@ NS_ASSUME_NONNULL_BEGIN
 
 /*!
  * 配置保存录音的编码格式-mp3、wav
+<<<<<<< HEAD
  * 默认为amr
 */
 @property (nonatomic, assign) DOSAudioFormat encodeFormat;
+=======
+ * 默认为.amr
+*/
+@property (nonatomic, strong) NSString *encodeFormat;
+>>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
 
 /*!
  * 是否开识别
@@ -56,12 +62,15 @@ NS_ASSUME_NONNULL_BEGIN
 */
 @property (nonatomic, strong) NSString *externalToken;
 
+<<<<<<< HEAD
 /*!
  * 设备序列号
 */
 @property (nonatomic, strong) NSString *deviceSerialNumber;
 
 
+=======
+>>>>>>> bbeaa619f80c687f23cbbd6e898c655bd336b604
 
 @end
 
