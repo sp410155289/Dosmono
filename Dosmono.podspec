@@ -32,7 +32,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios
   # spec.platform     = :ios, "5.0"
 
-  spec.ios.deployment_target = "10.0"
+  spec.ios.deployment_target = "11.0"
 
 
 
@@ -42,10 +42,9 @@ Pod::Spec.new do |spec|
   spec.exclude_files = "Classes/Exclude"
   spec.ios.vendored_frameworks = 'Dosmono.framework'
   spec.dependency 'YYModel'
-  spec.dependency 'JRDB'
   spec.dependency 'SocketRocket'
   spec.dependency 'FreeStreamer'
-  spec.dependency 'BabyBluetooth'
+  spec.dependency 'FMDB'
   spec.requires_arc = true
   spec.frameworks = "UIKit", "Foundation", "CoreGraphics", "QuartzCore", "SystemConfiguration", "Contacts", "AddressBook", "AudioToolbox", "AVFoundation", "CoreTelephony", "CoreLocation"
   spec.libraries = "c++", "z"
