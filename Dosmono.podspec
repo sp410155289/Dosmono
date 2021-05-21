@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "Dosmono"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.3"
   spec.summary      = "Dosmono"
 
   spec.description  = <<-DESC
@@ -24,7 +24,7 @@ Pod::Spec.new do |spec|
   spec.license      = { :type => "MIT", :file => "LICENSE" }
 
 
-  spec.author             = { "sunpeng" => "410155289@qq.com" }
+  spec.author             = { "SunPeng" => "410155289@qq.com" }
   # Or just: spec.author    = "sunpeng"
   # spec.authors            = { "sunpeng" => "410155289@qq.com" }
   # spec.social_media_url   = "https://twitter.com/sunpeng"
