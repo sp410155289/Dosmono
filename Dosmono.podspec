@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "Dosmono"
-  spec.version      = "1.0.8"
+  spec.version      = "1.0.9"
   spec.summary      = "Dosmono"
 
   spec.description  = <<-DESC
@@ -46,7 +46,7 @@ Pod::Spec.new do |spec|
   spec.dependency 'FreeStreamer'
   spec.dependency 'FMDB'
   spec.requires_arc = true
-  spec.frameworks = "UIKit", "Foundation", "CoreGraphics", "QuartzCore", "SystemConfiguration", "Contacts", "AddressBook", "AudioToolbox", "AVFoundation", "CoreTelephony", "CoreLocation"
+  spec.frameworks = "UIKit", "Foundation", "CoreGraphics", "QuartzCore", "SystemConfiguration", "Contacts", "AudioToolbox", "AVFoundation", "CoreTelephony", "CoreLocation"
   spec.libraries = "c++", "z"
   
   # spec.public_header_files = 'Headers/*.h'
