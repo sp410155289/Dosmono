@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "Dosmono"
-  spec.version      = "1.0.7"
+  spec.version      = "1.0.8"
   spec.summary      = "Dosmono"
 
   spec.description  = <<-DESC
