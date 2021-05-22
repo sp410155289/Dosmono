@@ -48,7 +48,11 @@ Pod::Spec.new do |spec|
   spec.requires_arc = true
   spec.frameworks = "UIKit", "Foundation", "CoreGraphics", "QuartzCore", "SystemConfiguration", "Contacts", "AudioToolbox", "AVFoundation", "CoreTelephony", "CoreLocation"
   spec.libraries = "c++", "z"
-  
+
+  spec.pod_target_xcconfig = {
+    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+  }
+  spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   # spec.public_header_files = 'Headers/*.h'
 
   # spec.resource  = "icon.png"
