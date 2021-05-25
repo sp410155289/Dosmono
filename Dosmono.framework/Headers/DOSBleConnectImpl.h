@@ -47,6 +47,12 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy) OnCmdReceive onCmdReceive;
 
 /*!
+ * 蓝牙交互错误回调
+*/
+@property (nonatomic, copy) OnCmdError onCmdError;
+
+
+/*!
  * 蓝牙交互结果回调
 */
 @property (nonatomic, copy) OnFileList onFileList;

@@ -44,6 +44,11 @@ typedef void (^OnConnectTimeout)(void);
 typedef void (^OnCmdReceive)(NSString *value, DOSBleFlag flag);
 
 /*!
+ * 蓝牙交互失败回调
+*/
+typedef void (^OnCmdError)(NSError *value);
+
+/*!
  * 文件列表回调
 */
 typedef void (^OnFileList)(NSArray<NSString *> *list);

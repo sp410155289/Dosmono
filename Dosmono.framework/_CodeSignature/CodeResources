@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/DOSBleConnectImpl.h</key>
 		<data>
-		oNqGlGThewO2PgCEBrGT4FwNNiQ=
+		CdFB+wDD97tiSo2boTc8rVURHhw=
 		</data>
 		<key>Headers/DOSBleExtraBean.h</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Headers/DOSIBleConnectCallback.h</key>
 		<data>
-		dw/MZY2z5hdILEMEaLa6MXkm93c=
+		FuRurdsYM62UHEK9PbT00g2y1ko=
 		</data>
 		<key>Headers/DOSIBleRecordCallback.h</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		k5hKdu2GGCRNbj7rVkfRKD/4uGY=
+		P7tfiQNXho1i7rjKAa/B16o6RRU=
 		</data>
 		<key>slience.mp3</key>
 		<data>
@@ -132,11 +132,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oNqGlGThewO2PgCEBrGT4FwNNiQ=
+			CdFB+wDD97tiSo2boTc8rVURHhw=
 			</data>
 			<key>hash2</key>
 			<data>
-			bYwu6j++aIj+LbBpUU7sRevW9xLFxYrS5LkiACp/IC0=
+			lN3Q0pn7BIQ0pqWb6DJD7Nlie7cxWSmIycQZAM6i66g=
 			</data>
 		</dict>
 		<key>Headers/DOSBleExtraBean.h</key>
@@ -242,11 +242,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dw/MZY2z5hdILEMEaLa6MXkm93c=
+			FuRurdsYM62UHEK9PbT00g2y1ko=
 			</data>
 			<key>hash2</key>
 			<data>
-			/ao5RMYYOCZ+v7DcrRs48PGZIMSCkyinYKHxrheO5EI=
+			LH3UUgOAxhgLh8gOHbbhNL8rR7VX9ab145xojZDNNuY=
 			</data>
 		</dict>
 		<key>Headers/DOSIBleRecordCallback.h</key>
