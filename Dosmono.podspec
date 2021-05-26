@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "Dosmono"
-  spec.version      = "1.0.10"
+  spec.version      = "1.0.11"
   spec.summary      = "Dosmono"
 
   spec.description  = <<-DESC
@@ -32,7 +32,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios
   # spec.platform     = :ios, "5.0"
 
-  spec.ios.deployment_target = "11.0"
+  spec.ios.deployment_target = "10.0"
 
 
 
