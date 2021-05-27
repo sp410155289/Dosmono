@@ -58,6 +58,11 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy) OnFileList onFileList;
 
 /*!
+ * 蓝牙上传状态的回调
+*/
+@property (nonatomic, copy) OnUploadStatus onUploadStatus;
+
+/*!
  * 首次鉴权后配置文件下载进度，配置文件下载完成后可使用语音识别。
 */
 @property (nonatomic, copy) OnDownloadConfigFileFinished onDownloadConfigFileFinished;

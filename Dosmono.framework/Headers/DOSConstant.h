@@ -73,5 +73,16 @@ typedef NS_ENUM(NSUInteger, DOSAudioFormat){
     DOSAudioFormat_UNKNOWN,
 };
 
+typedef NS_ENUM(NSInteger, DOSRecordUploadState){
+
+    DOSRecordUploadState_Normal = 0,//未在上传
+    DOSRecordUploadState_Uploading,//上传中
+};
+
+typedef NS_ENUM(NSInteger, DOSRecordDecodeState){
+
+    DOSRecordDecodeState_Normal = 0,//未在上传
+    DOSRecordDecodeState_Decoding,//解码中
+};
 
 #endif /* DOSConstant_h */

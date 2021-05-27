@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/DOSBleConnectImpl.h</key>
 		<data>
-		CdFB+wDD97tiSo2boTc8rVURHhw=
+		NpkebR7Zu2tG4/SKt8vFbM8Bd9A=
 		</data>
 		<key>Headers/DOSBleExtraBean.h</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/DOSBleRecordImpl.h</key>
 		<data>
-		PCicGxRzesnU4qQfHB6YQAun9Do=
+		VRSsRrLZtKcYxXkukMCEEs2dz3k=
 		</data>
 		<key>Headers/DOSBleSearchImpl.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Headers/DOSConstant.h</key>
 		<data>
-		ZELEy5vKsF4m/79tBJhMVrG+zaM=
+		UpHaOx/7YGGNCtajJEtQdnn+GCg=
 		</data>
 		<key>Headers/DOSDosmono.h</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Headers/DOSIBleConnectCallback.h</key>
 		<data>
-		FuRurdsYM62UHEK9PbT00g2y1ko=
+		OkLl1b/a4P3UbZHGnKozs+WxT6c=
 		</data>
 		<key>Headers/DOSIBleRecordCallback.h</key>
 		<data>
-		ytDwzXHvJMtXfPmTHObjuAbFEzI=
+		og0ZryvX6Kyf1oUomRz/Gu70iCA=
 		</data>
 		<key>Headers/DOSIBleSearchCallback.h</key>
 		<data>
@@ -132,11 +132,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CdFB+wDD97tiSo2boTc8rVURHhw=
+			NpkebR7Zu2tG4/SKt8vFbM8Bd9A=
 			</data>
 			<key>hash2</key>
 			<data>
-			lN3Q0pn7BIQ0pqWb6DJD7Nlie7cxWSmIycQZAM6i66g=
+			UXNFAAJDkVrUNEXFkH4yPNzKIBU9H1eEpJlX0kc3chQ=
 			</data>
 		</dict>
 		<key>Headers/DOSBleExtraBean.h</key>
@@ -165,11 +165,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PCicGxRzesnU4qQfHB6YQAun9Do=
+			VRSsRrLZtKcYxXkukMCEEs2dz3k=
 			</data>
 			<key>hash2</key>
 			<data>
-			HgEguq6xawCDpOTtYAKqJStmp91HTub8tO51YUdwgm4=
+			OQ8ji2jDUg5OKBOCTjcwI3V7zo0GwMaFN/dE4ZknYl0=
 			</data>
 		</dict>
 		<key>Headers/DOSBleSearchImpl.h</key>
@@ -209,11 +209,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZELEy5vKsF4m/79tBJhMVrG+zaM=
+			UpHaOx/7YGGNCtajJEtQdnn+GCg=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZaKYQmo+BA8+Ere5MlFacHAlBjeEh/h5NL3HEoXkZI4=
+			NuqcQnF+S8YmMTyaYR0iy7fYzqSyI3Us79hYlQo9vu8=
 			</data>
 		</dict>
 		<key>Headers/DOSDosmono.h</key>
@@ -242,22 +242,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FuRurdsYM62UHEK9PbT00g2y1ko=
+			OkLl1b/a4P3UbZHGnKozs+WxT6c=
 			</data>
 			<key>hash2</key>
 			<data>
-			LH3UUgOAxhgLh8gOHbbhNL8rR7VX9ab145xojZDNNuY=
+			IOclSVUAH7SF9F7coK+Afj+CpzGCSn24/8Pg7flKGl8=
 			</data>
 		</dict>
 		<key>Headers/DOSIBleRecordCallback.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ytDwzXHvJMtXfPmTHObjuAbFEzI=
+			og0ZryvX6Kyf1oUomRz/Gu70iCA=
 			</data>
 			<key>hash2</key>
 			<data>
-			6TOI82/VSWo8faXUCSafCmC8jOdE0Sh+oVu/0JfSofg=
+			549FoG2saACW+dOkrBivU7f581J1yKdta+QANTDXPt0=
 			</data>
 		</dict>
 		<key>Headers/DOSIBleSearchCallback.h</key>

@@ -58,6 +58,11 @@ typedef void (^OnFileList)(NSArray<NSString *> *list);
 */
 typedef void (^OnDownloadConfigFileFinished)(double progress);
 
+/*!
+ * 是否在上传中的状态回调
+*/
+typedef void (^OnUploadStatus)(DOSRecordUploadState state);
+
 @interface DOSIBleConnectCallback : NSObject
 
 @end

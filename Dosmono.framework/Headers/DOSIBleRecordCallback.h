@@ -71,6 +71,11 @@ typedef void (^RecordOnExtraBean)(DOSBleExtraBean *extraBean);
 */
 typedef void (^RecordOnError)(NSInteger errNo);
 
+/*!
+ * 是否正在解码中的状态回调
+*/
+typedef void (^OnDecodeState)(DOSRecordDecodeState state);
+
 @interface DOSIBleRecordCallback : NSObject
 
 @end

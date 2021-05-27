@@ -73,6 +73,11 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy) RecordOnError onError;
 
 /*!
+ * 是否正在解码中的状态回调
+*/
+@property (nonatomic, copy) OnDecodeState onDecodeState;
+
+/*!
  * 开始录音配置信息
 */
 @property (nonatomic, strong) DOSBleRecordBuilder *recordBuilder;
