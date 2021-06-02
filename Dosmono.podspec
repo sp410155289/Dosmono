@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "Dosmono"
-  spec.version      = "1.0.16"
+  spec.version      = "1.0.17"
   spec.summary      = "Dosmono"
 
   spec.description  = <<-DESC
@@ -53,6 +53,7 @@ Pod::Spec.new do |spec|
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
   spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  spec.valid_archs = ['armv7s','arm64','armv7','arm64e']
   # spec.public_header_files = 'Headers/*.h'
 
   # spec.resource  = "icon.png"
