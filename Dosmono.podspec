@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "Dosmono"
-  spec.version      = "1.0.23"
+  spec.version      = "1.0.24"
   spec.summary      = "Dosmono"
   spec.description  = <<-DESC
   大圣魔脑SDK
